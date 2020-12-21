@@ -1,0 +1,13 @@
+Logging System Messages to a File:
+
+===============
+
+debug track all
+
+debug logfile LogFile
+
+logging logfile LogFile 6
+
+show logging logfile  > my_log_1
+
+show file my_log_1
